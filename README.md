@@ -11,7 +11,7 @@ for dealerships, built with **Next.js**, **TypeScript**, **Tailwind CSS**, and *
 workflows to deliver enterprise-grade solutions at extreme speed.
 
 - 🛠 **Currently working on:** [AETHER OS](https://github.com/peter1965p/aether-os)
-- ⚡ **Tech Stack:** Next.js, React, TypeScript, Tailwind, Node.js, PostgreSQL, MongoDB.
+- ⚡ **Tech Stack:** Next.js, React, TypeScript, Tailwind, Node.js, JavaScript, Electron, SQLlite3, AWS S3, Google Cloud, PostgreSQL, MongoDB, SQLserver.
 - 🤖 **AI-First:** Power-using AI to accelerate development and solve complex logic.
 - 🌍 **Location:** Manderscheid / Vulkaneifel (Remote preferred)
 
