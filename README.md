@@ -5,7 +5,7 @@
 
 I bridge the gap between deep system knowledge and cutting-edge technologies. 
 My current flagship project is **AETHER OS**, a comprehensive management system 
-for dealerships, built with **Next.js**, **Tailwind CSS**, and **Supabase**.
+for dealerships, built with **Next.js**, **TypeScript**, **Tailwind CSS**, and **Supabase**.
 
 🚀 **My Edge:** Combining decades of architectural expertise with AI-augmented 
 workflows to deliver enterprise-grade solutions at extreme speed.
