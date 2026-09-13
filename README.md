@@ -1,3 +1,5 @@
+![Päffgen IT](./asset/logo250x100.png)
+
 # Hi, ich bin Peter Päffgen 👋
 
 **Senior Full-Stack & Multi-Platform Engineer** — 40+ Jahre IT-Erfahrung, framework-agnostisch und produktorientiert.
@@ -36,10 +38,13 @@ Ich entwickle Software, die skaliert — im Web, auf dem Desktop, in der Cloud u
 ![Coding Forever Screenshot](./asset/CF.Dashboard.png)
 
 **[BlutzuckerApp](https://github.com/peter1965p/BlutzuckerApp)** — Cross-Platform Diabetes Tracker mit Avalonia UI, Supabase, OxyPlot und QuestPDF. Offlinefähig, modern, modular.
+![Bltuzucker App Screenshot](./asset/BlutzuckerApp.png)
 
 **[nexora-nuxt](https://github.com/peter1965p/nexora-nuxt)** — Schnelle, individuell steuerbare Website-Engine mit Headless-CMS-Ansatz. Kein Plugin-Wildwuchs, keine Update-Ängste. Live im Einsatz bei paeffgen-it.de.
+![Nexora Screenshot](./asset/nexora-nuxt.png)
 
 **[wp-Reloaded](https://github.com/peter1965p/wp-Reloaded)** — Echtes, unverändertes WordPress im Kern, kombiniert mit modernem Headless-Frontend.
+![WP Reloaded Screenshot](./asset/wp-Reloaded.png)
 
 ---
 
