@@ -29,11 +29,11 @@ Ich entwickle Software, die skaliert — im Web, auf dem Desktop, in der Cloud u
 
 **[Plexora](https://github.com/peter1965p/plexora)** — CRM, Projekte, HR, Finanzen, Support: eine Plattform statt zehn Tools. Multi-Tenant-SaaS, gebaut von einem Entwickler, der selbst weiß, wie es sich anfühlt, zwischen zehn Systemen zu jonglieren.
 
-![Plexora Dashboard](./assets/plexora.dash.png)
+![Plexora Dashboard](asset/plexora.dash.png)
 
 **[Coding Forever](https://github.com/peter1965p/coding-forever-gemini)** — VS Code Extension mit direkter Gemini-Flash-Integration ohne Limits. Ungedrosselte KI-Entwicklung, genau wie ich sie selbst täglich brauche. Verfügbar im [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=PeterPaeffgen.coding-forever).
 
-![Coding Forever Screenshot](./assets/CF.Dashboard.png)
+![Coding Forever Screenshot](./asset/CF.Dashboard.png)
 
 **[BlutzuckerApp](https://github.com/peter1965p/BlutzuckerApp)** — Cross-Platform Diabetes Tracker mit Avalonia UI, Supabase, OxyPlot und QuestPDF. Offlinefähig, modern, modular.
 
