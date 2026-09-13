@@ -1,4 +1,4 @@
-![Päffgen IT](./asset/logo250x100.png)
+![Päffgen IT](./asset/logo250x100.jpg)
 
 # Hi, ich bin Peter Päffgen 👋
 
