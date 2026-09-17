@@ -29,7 +29,7 @@ Ich entwickle Software, die skaliert — im Web, auf dem Desktop, in der Cloud u
 
 ### 🚀 Ausgewählte Projekte
 
-**[Plexora](https://github.com/peter1965p/plexora)** — CRM, Projekte, HR, Finanzen, Support: eine Plattform statt zehn Tools. Multi-Tenant-SaaS, gebaut von einem Entwickler, der selbst weiß, wie es sich anfühlt, zwischen zehn Systemen zu jonglieren.
+**[Plexora](https://github.com/peter1965p/plexora)** — CRM, Projekte, HR, Finanzen, Support: eine Plattform statt zehn Tools. Multi-Tenant-SaaS, gebaut von einem Entwickler, der selbst weiß, wie es sich anfühlt, zwischen zehn Systemen zu jonglieren. Review: (https://www.plexora.eu)
 
 ![Plexora Dashboard](asset/plexora.dash.png)
 
