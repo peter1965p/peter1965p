@@ -6,7 +6,7 @@
 
 Ich entwickle Software, die skaliert — im Web, auf dem Desktop, in der Cloud und auf mobilen Geräten. Ich verbinde moderne Technologien mit tiefem System-Know-how und baue Lösungen, die nicht nur funktionieren, sondern Bestand haben.
 
-📍 Manderscheid, Vulkaneifel · 🌐 [paeffgen-it.de](https://paeffgen-it.de)
+📍 Manderscheid, Vulkaneifel · 🌐 [paeffgen-it.de](https://paeffgen-it.de) | [Plexora Project](https://www.plexora.eu)
 
 ---
 
