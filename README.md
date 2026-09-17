@@ -50,7 +50,7 @@ Ich entwickle Software, die skaliert — im Web, auf dem Desktop, in der Cloud u
 
 ### 💡 Arbeitsweise
 
-Ich arbeite schnell, strukturiert und eigenverantwortlich. Ich liebe es, komplexe Systeme zu entwirren, moderne Technologien zu kombinieren und Lösungen zu bauen, die sich wie Produkte anfühlen — nicht wie Prototypen.
+Ich arbeite schnell, strukturiert und eigenverantwortlich. Ich liebe es, komplexe Systeme zu erschaffen, moderne Technologien zu kombinieren und Lösungen zu bauen, die sich wie Produkte anfühlen — nicht wie Prototypen.
 
 Kundenspezifische Projekte bleiben aus Diskretionsgründen privat — was du hier siehst, ist die eigene/offene Seite meiner Arbeit.
 
