@@ -20,14 +20,22 @@ Ich entwickle Software, die skaliert — im Web, auf dem Desktop, in der Cloud u
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Avalonia](https://img.shields.io/badge/Avalonia-9146FF?style=flat-square)
 ![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflareworkers&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt_(PySide6)-41CD52?style=flat-square&logo=qt&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
 ### 🚀 Ausgewählte Projekte
+
+**[Visual Death Studio](https://github.com/peter1965p/visual-death-studio)** — Native Qt-IDE mit Neon-Oberfläche, inspiriert von Visual Studio: Formular-Designer, Debugger, IntelliSense und Claude-Anbindung. Dazu ein **visueller Web-Editor**: Laravel-, React-, Vue- oder HTML-Seiten per Drag & Drop bauen und bearbeiten, die Änderungen landen sauber im Quellcode. Mit Import und Export (Qt Creator, Visual Studio, VS Code …), Git, Live Share, Datenbank-Explorer, Profiler und Selbst-Update über GitHub-Releases.
+
+![Visual Death Studio – visueller Web-Editor](./asset/vds-visueller-editor.png)
+
+**SoftCenter** — Software Center für Arch/CachyOS (pacman + AUR) mit PySide6: Paketsuche, kuratierter Katalog, Systemübersicht und Desktop-Berater. Dazu die **Auto-Update-Oberfläche**: Btrfs-Snapshot vorab, System und AUR-Pakete nach Zeitplan aktualisieren, Mirror-Bewertung, Sicherheitsprüfung und ein Ablaufprotokoll pro Lauf.
+
+![SoftCenter – automatische Updates](./asset/softcenter-updates.png)
 
 **[Plexora](https://github.com/peter1965p/plexora)** — CRM, Projekte, HR, Finanzen, Support: eine Plattform statt zehn Tools. Multi-Tenant-SaaS, gebaut von einem Entwickler, der selbst weiß, wie es sich anfühlt, zwischen zehn Systemen zu jonglieren. Review: (https://www.plexora.eu)
 
@@ -36,9 +44,6 @@ Ich entwickle Software, die skaliert — im Web, auf dem Desktop, in der Cloud u
 **[Coding Forever](https://github.com/peter1965p/coding-forever-gemini)** — VS Code Extension mit direkter Gemini-Flash-Integration ohne Limits. Ungedrosselte KI-Entwicklung, genau wie ich sie selbst täglich brauche. Verfügbar im [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=PeterPaeffgen.coding-forever).
 
 ![Coding Forever Screenshot](./asset/CF.Dashboard.png)
-
-**[BlutzuckerApp](https://github.com/peter1965p/BlutzuckerApp)** — Cross-Platform Diabetes Tracker mit Avalonia UI, Supabase, OxyPlot und QuestPDF. Offlinefähig, modern, modular.
-![Bltuzucker App Screenshot](./asset/BlutzuckerApp.png)
 
 **[nexora-nuxt](https://github.com/peter1965p/nexora-nuxt)** — Schnelle, individuell steuerbare Website-Engine mit Headless-CMS-Ansatz. Kein Plugin-Wildwuchs, keine Update-Ängste. Live im Einsatz bei paeffgen-it.de.
 ![Nexora Screenshot](./asset/nexora-nuxt.png)
