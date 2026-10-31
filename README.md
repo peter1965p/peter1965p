@@ -51,7 +51,7 @@ Ich entwickle Software, die skaliert — im Web, auf dem Desktop, in der Cloud u
 **[wp-Reloaded](https://github.com/peter1965p/wp-Reloaded)** — Echtes, unverändertes WordPress im Kern, kombiniert mit modernem Headless-Frontend.
 ![WP Reloaded Screenshot](./asset/wp-Reloaded.png)
 
-**FM Dateimanager coming soon !!! Einfacher Dateimanager mit besonderen Fähigkeiten. Via F7 kann man die gängigsten Projekttypen anlegen. Python / Flask, React, Node und sogar Net Web api.
+**FM Dateimanager** — coming soon! Einfacher Dateimanager mit besonderen Fähigkeiten. Via F7 legt man die gängigsten Projekttypen an: Python / Flask, React, Node und sogar .NET Web API.
 ![FM F7 Menü](./asset/fm.png)
 ![FM F7 mit DB](./asset/fm.db.png)
 
